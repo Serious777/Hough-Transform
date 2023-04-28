@@ -1,8 +1,12 @@
 # Hough-Transform
+
+This an assignment from my computer vision course
+
 Implete a hough transform to detect lines
 
 - data                         :some pictures for test
-- ec      
+- ec
+- document                     : assignment details       
 - python
   - houghScript.py             : test script
   - myEdgeFilter.py            : get image edge
