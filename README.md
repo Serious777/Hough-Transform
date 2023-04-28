@@ -2,7 +2,7 @@
 
 This an assignment from my computer vision course
 
-Implete a hough transform to detect lines
+Using hough transform to detect lines
 
 - data                         :some pictures for test
 - ec
