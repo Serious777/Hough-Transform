@@ -1,13 +1,16 @@
 # Hough-Transform
 Implete a hough transform to detect lines
 
-- data    some pictures for test
+- data                         :some pictures for test
 - ec      
 - python
-  - houghScript.py 
-  - myEdgeFilter.py
-  - myHoughLines.py
-  - myImageFilter.py
-  - nonMaxSuppress.py
+  - houghScript.py             : test script
+  - myEdgeFilter.py            : get image edge
+  - myHoughTransform           : hough Transform
+  - myHoughLines.py            : get n lines from the result of hough
+  - myImageFilter.py           : convolution function
+  - nonMaxSuppress.py          : NMS algorithm for removing adjacent lines
+  
+  
   
  
